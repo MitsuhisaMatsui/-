@@ -38,7 +38,8 @@
 
 ## 連絡先・更新情報
 
-- 作者：松井 光寿（Mitsuhisa Matsui）  
+- 作者：松井 光寿（Mitsuhisa Matsui）
+- 連絡先：a24@iamas.ac.jp 
 - 更新：2026年2月13日  
 
 ご質問があれば、Issues からお知らせください。
