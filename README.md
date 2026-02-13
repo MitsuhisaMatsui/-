@@ -10,9 +10,9 @@
 - **著者**：Yusuke Shikano, Eri Mizumachi, Konomi Higo & Kohei Takeda  
 - **© 2023**  
 - **元URL**：https://elsi.osaka-u.ac.jp/program_tool/2534  
-- **ライセンス**：CC BY-NC-SA 4.0 （[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)） [page:42][web:2]  
+- **ライセンス**：CC BY-NC-SA 4.0 （[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)）
 
-元作品は大阪大学社会技術共創研究センター（ELSIセンター）が公開したものです。[page:42]
+元作品は大阪大学社会技術共創研究センター（ELSIセンター）が公開したものです。
 
 ## 改変内容
 
@@ -25,16 +25,16 @@
 本リポジトリ一式（カードデッキ・進行用スクリプト）は、**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** の下で公開します。
 
 - https://creativecommons.org/licenses/by-nc-sa/4.0/  
-- **非営利（NC）**：商用利用は禁止です。教育・研究目的でのみご利用ください。[web:6]  
-- **継承（SA）**：改変する場合は、同じライセンスで公開してください。[web:4]
+- **非営利（NC）**：商用利用は禁止です。教育・研究目的でのみご利用ください。
+- **継承（SA）**：改変する場合は、同じライセンスで公開してください。
 
 詳細は [LICENSE](LICENSE) ファイルをご覧ください。
 
 ## 使い方
 
-1. **カードデッキ**：PDFを印刷（L判推奨）。[page:42]  
+1. **カードデッキ**：PDFを印刷（L判推奨）。
 2. **進行用スクリプト**：ファシリテーターが読みながら進行。  
-3. 所要時間：45〜60分（高校授業向け）。
+3. 所要時間：約50分（高校授業向け）。
 
 ## 連絡先・更新情報
 
